@@ -1,10 +1,44 @@
-# 🧱Sokoban game in Java🧱
+# Sokoban game written in Java🧱
 ![Release](https://img.shields.io/badge/Release-v1.0-blueviolet)
 ![Language](https://img.shields.io/badge/Java-ED8B00)
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="ressources/game_preview.png" alt="Pixel art of a city" style="width: 40%;"/>
+  <img src="ressources/shop_preview.png" alt="Encrypted pixel art of a city, noisy image" style="width: 40%;"/>
+</div>
 
 Java project done in the context of the course "oop" (INFO0062) given by Pr. Boigelot, ULiège.<br>
 This project has been done by me (Simon Gardier) and Camille Trinh :)<br>
 The final mark for this project is 20/20.
+
+## Summary
+1. [Try it!](#try-it)
+2. [Features](#features)
+3. [Implementation](#implementation)
+
+## Try it
+Sokoban is a problem-solving game where you have to move boxes to specific locations to access the next level.<br>
+Take a look at the [features](#features) section to know more about the games rules.<br>
+To play the game :<br>
+- Install Java (version >= 8) jdk ([https://www.oracle.com/java/technologies/downloads/])
+
+- Clone the repository
+```console
+git clone git@github.com:sgardier/sokoban.git locationOfTheGame
+```
+- Go to the folder of the projet
+```console
+cd locationOfTheGame
+```
+- Run the ```javac``` command at the root of the directory
+```console
+javac -cp ".;sokoban-gui.jar" be/uliege/boigelot/oop/sokoban/main/Sokoban.java
+```
+- To start the game run the ```javac``` command at the root of the directory
+```console
+java -cp ".;sokoban-gui.jar" be/uliege/boigelot/oop/sokoban/main/Sokoban
+```
+Note : replace the ; by : if you are on Linux :)
 
 ## Features
 - 1 way cells : The player can go on the cell from any side but they are forced to move to the direction indicated by the arrow on the cell.
