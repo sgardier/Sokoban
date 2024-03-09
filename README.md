@@ -1,6 +1,6 @@
 # Sokoban game written in Java🧱
-![Release](https://img.shields.io/badge/Release-v1.0-blueviolet)
-![Language](https://img.shields.io/badge/Java-ED8B00)
+![Release](https://img.shields.io/badge/Release-v1.0-blueviolet?style=for-the-badge)
+![Language](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
   <img src="ressources/game_preview.png" alt="Pixel art of a city" style="width: 40%;"/>
