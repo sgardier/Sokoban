@@ -64,4 +64,8 @@ The downfall of the shop/reward system is that we are limited by the SokobanGUI 
 
 - Since we draw two types of content in the Window (the shop and the game board) we have created a WindowContent superclass whose subclasses implement a draw() and an update() function.
 
-- Having to draw various things like letters, numbers and CellType, we have overloaded a draw() method which can receive either a character, a number or a CellType in parameter. 
+- Having to draw various things like letters, numbers and CellType, we have overloaded a draw() method which can receive either a character, a number or a CellType in parameter.
+
+## Credits
+- Simon Gardier (Co-Author) : https://github.com/sgardier
+- Camille Trinh (Co-author)
