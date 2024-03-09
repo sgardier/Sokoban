@@ -20,7 +20,7 @@ The final mark for this project is 20/20.
 Sokoban is a problem-solving game where you have to move boxes to specific locations to access the next level.<br>
 Take a look at the [features](#features) section to know more about the games rules.<br>
 To play the game :<br>
-- Install Java (version >= 8) jdk ([https://www.oracle.com/java/technologies/downloads/])
+- Install Java (version >= 8) jdk (https://www.oracle.com/java/technologies/downloads/)
 
 - Clone the repository
 ```console
