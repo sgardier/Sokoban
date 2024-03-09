@@ -67,5 +67,5 @@ The downfall of the shop/reward system is that we are limited by the SokobanGUI 
 - Having to draw various things like letters, numbers and CellType, we have overloaded a draw() method which can receive either a character, a number or a CellType in parameter.
 
 ## Credits
-- Simon Gardier (Co-Author) : https://github.com/sgardier
+- [Simon Gardier](https://github.com/sgardier) (Co-Author)
 - Camille Trinh (Co-author)
