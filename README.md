@@ -15,6 +15,7 @@ The final mark for this project is 20/20.
 1. [Try it!](#try-it)
 2. [Features](#features)
 3. [Implementation](#implementation)
+4. [Credits](#credits)
 
 ## Try it
 Sokoban is a problem-solving game where you have to move boxes to specific locations to access the next level.<br>
