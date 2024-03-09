@@ -1,0 +1,15 @@
+11 13
+0
+wall wall wall wall wall wall wall wall wall wall wall
+wall target crate empty empty empty empty empty crate target wall
+wall empty empty empty empty empty empty empty empty empty wall
+wall empty empty arrowright arrowright empty arrowleft arrowleft empty empty wall
+wall empty arrowup empty empty arrowdown empty empty arrowdown empty wall
+wall empty arrowup empty empty player empty empty arrowdown empty wall
+wall empty arrowup empty empty empty empty empty arrowdown empty wall
+wall empty empty arrowleft empty empty empty arrowright empty empty wall
+wall empty empty empty arrowdown empty arrowdown empty empty empty wall
+wall empty empty empty empty arrowdown empty empty empty empty wall
+wall empty empty empty empty empty empty empty empty empty wall
+wall target crate empty empty empty empty empty crate target wall
+wall wall wall wall wall wall wall wall wall wall wall
