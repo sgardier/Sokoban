@@ -7,7 +7,7 @@
   <img src="ressources/shop_preview.png" alt="Encrypted pixel art of a city, noisy image" style="width: 40%;"/>
 </div>
 
-Java project done in the context of the course "oop" (INFO0062) given by Pr. Boigelot, ULiège.<br>
+Java project done in the context of the oriented-object programming course (INFO0062) given by Pr. Boigelot, ULiège.<br>
 This project has been done by me (Simon Gardier) and Camille Trinh :)<br>
 The final mark for this project is 20/20.
 
