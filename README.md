@@ -1,4 +1,4 @@
-# Sokoban game written in Java🧱
+# 🧱Sokoban game written in Java
 ![Release](https://img.shields.io/badge/Release-v1.0-blueviolet?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
 
